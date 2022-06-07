@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf5835ce9ce434881f934d17ea3c3350",
+    "revision": "bceebd07d0fa93446278565b6b24eac3",
     "url": "/index.html"
   },
   {
-    "revision": "b02fa01f9e2e464a848c",
+    "revision": "079e13c4f68eb672f0f1",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "9a1a6e212e46b93378b4",
+    "revision": "ea32a2dd7be3398cf1b3",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "b4eb94dcd15998e5d843",
-    "url": "/static/css/main.66262938.chunk.css"
+    "revision": "701d250c309aa16f4aaa",
+    "url": "/static/css/main.1a6005f5.chunk.css"
   },
   {
-    "revision": "6099da15d7ef139536ef",
-    "url": "/static/js/2.3b89ba20.chunk.js"
+    "revision": "8b7f43ad9e42406c509b",
+    "url": "/static/js/2.ff403b26.chunk.js"
   },
   {
-    "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.3b89ba20.chunk.js.LICENSE.txt"
+    "revision": "da95f565795e564844a1caf7f0aa8fdc",
+    "url": "/static/js/2.ff403b26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b02fa01f9e2e464a848c",
-    "url": "/static/js/3.6d3a6ac5.chunk.js"
+    "revision": "079e13c4f68eb672f0f1",
+    "url": "/static/js/3.4977f67e.chunk.js"
   },
   {
-    "revision": "9a1a6e212e46b93378b4",
-    "url": "/static/js/4.aa2ec175.chunk.js"
+    "revision": "ea32a2dd7be3398cf1b3",
+    "url": "/static/js/4.b8647c43.chunk.js"
   },
   {
-    "revision": "b4eb94dcd15998e5d843",
-    "url": "/static/js/main.628f7b4b.chunk.js"
+    "revision": "701d250c309aa16f4aaa",
+    "url": "/static/js/main.85227bc3.chunk.js"
   },
   {
-    "revision": "31e86355749aafe4c8bd",
-    "url": "/static/js/runtime-main.216c9345.js"
+    "revision": "be29e471598dc408d648",
+    "url": "/static/js/runtime-main.05076764.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -76,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/harvardLogo.35ef5e91.png"
   },
   {
+    "revision": "56596d5f3765be60747488af14a16725",
+    "url": "/static/media/hawke.56596d5f.webp"
+  },
+  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
@@ -90,10 +94,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
     "url": "/static/media/quoraLogo.4b2938b9.png"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
