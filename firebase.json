@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "public",
+    "site": "canadian-website-design-40f4e",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
