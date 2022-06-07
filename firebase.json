@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "public": "public",
-    "site": "canadian-website-design-40f4e",
+    "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",
