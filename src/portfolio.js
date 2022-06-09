@@ -237,7 +237,7 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/hawke.webp"),
-      projectName: "",
+      projectName: "Hawke prohibition",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
@@ -248,13 +248,49 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
+      image: require("./assets/images/hawke.webp"),
+      projectName: "Viroffect",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://viroffect.ca"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/hawke.webp"),
+      projectName: "EastView Denture Clinic",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.eastviewdentureclinic.ca"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/hawke.webp"),
+      projectName: "Airdrie Auto Credit",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://airdrieautocredit.ca"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/auto.webp"),
+      projectName: "Autoplex Alberta",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.autoplexalberta.ca/"
         }
       ]
     }
