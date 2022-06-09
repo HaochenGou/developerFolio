@@ -284,6 +284,18 @@ const bigProjects = {
       ]
     },
     {
+      image: require("./assets/images/hawke.webp"),
+      projectName: "Airdrie Auto Credit",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://airdrieautocredit.ca"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
       image: require("./assets/images/auto.webp"),
       projectName: "Autoplex Alberta",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -292,6 +304,18 @@ const bigProjects = {
           name: "Visit Website",
           url: "https://www.autoplexalberta.ca/"
         }
+      ]
+    },
+    {
+      image: require("./assets/images/hawke.webp"),
+      projectName: "Airdrie Auto Credit",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://airdrieautocredit.ca"
+        }
+        //  you can add extra buttons here.
       ]
     }
   ],
