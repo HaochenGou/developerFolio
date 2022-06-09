@@ -272,6 +272,28 @@ const bigProjects = {
       ]
     },
     {
+      image: require("./assets/images/home.webp"),
+      projectName: "HomeCellar",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.homecellar.ca/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/promo.webp"),
+      projectName: "Promo Painting & Decorating Calgary",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.promopainting.com/"
+        }
+      ]
+    },
+    {
       image: require("./assets/images/auto.webp"),
       projectName: "Autoplex Alberta",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
