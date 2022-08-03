@@ -49,6 +49,12 @@ export default function Contact() {
               </a>
               <br />
               <br />
+              <a
+                className="contact-detail-email"
+                href={"https://www.google.com/maps/place/426+Kaska+Rd,+Sherwood+Park,+AB+T8A+4G8/@53.5397774,-113.3308798,17z/data=!3m1!4b1!4m5!3m4!1s0x53a017d78180111f:0xb4e54f35eef9a1eb!8m2!3d53.5397774!4d-113.3308798"}
+                target="_blank" rel="noopener noreferrer">
+                {contactInfo.address}
+              </a>
               <SocialMedia />
             </div>
           </div>

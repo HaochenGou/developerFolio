@@ -154,35 +154,35 @@ const techStack = {
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      progressPercentage: "100%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend",
-      progressPercentage: "70%"
+      progressPercentage: "100%"
     },
     {
       Stack: "Programming",
-      progressPercentage: "60%"
+      progressPercentage: "100%"
     },
     {
       Stack: "Backend",
-      progressPercentage: "70%",
+      progressPercentage: "100%",
     },
     {
       Stack: "Application",
-      progressPercentage: "80%",
+      progressPercentage: "100%",
     },
     {
       Stack: "Coding",
-      progressPercentage: "70%",
+      progressPercentage: "100%",
     },
     {
       Stack: "SEO",
-      progressPercentage: "80%",
+      progressPercentage: "100%",
     },
     {
       Stack: "Programming",
-      progressPercentage: "80%",
+      progressPercentage: "100%",
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -426,8 +426,9 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+01-0000000000",
-  email_address: "xxx@xxx"
+  number: "780-449-5331",
+  email_address: "info@cwd.com",
+  address:"426 Kaska Rd, Sherwood Park, AB T8A 4G8"
 };
 
 // Twitter Section
