@@ -81,9 +81,10 @@ function Header() {
           </li>
           <li>
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-            <a>
+            <a> 
               <ToggleSwitch />
             </a>
+            <p style={{fontSize:"12px"}}>Day Night</p>
           </li>
         </ul>
       </header>
