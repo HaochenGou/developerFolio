@@ -238,7 +238,7 @@ const bigProjects = {
     {
       image: require("./assets/images/hawke.webp"),
       projectName: "Hawke prohibition",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "Hawke Prohibition Distilleries is an indigenous- and female-owned business based in Sherwood Park, Alberta",
       footerLink: [
         {
           name: "Visit Website",
@@ -250,7 +250,7 @@ const bigProjects = {
     {
       image: require("./assets/images/viro.webp"),
       projectName: "Viroffect",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "Viroffect Inc. is a sanitization service in Calgary Alberta",
       footerLink: [
         {
           name: "Visit Website",
@@ -262,7 +262,7 @@ const bigProjects = {
     {
       image: require("./assets/images/view.webp"),
       projectName: "EastView Denture Clinic",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "EastView Denture Clinic is a Denture Clinic in Calgary Alberta",
       footerLink: [
         {
           name: "Visit Website",
@@ -274,7 +274,7 @@ const bigProjects = {
     {
       image: require("./assets/images/home.webp"),
       projectName: "HomeCellar",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "Home Cellar is a Calgary real estate consulting agency comprised of some of Calgary's top real estate agents",
       footerLink: [
         {
           name: "Visit Website",
@@ -285,7 +285,7 @@ const bigProjects = {
     {
       image: require("./assets/images/promo.webp"),
       projectName: "Promo Painting & Decorating Calgary",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "Promo Painting & Decorating is a painting service provider in Calgary Alberta",
       footerLink: [
         {
           name: "Visit Website",
@@ -296,7 +296,7 @@ const bigProjects = {
     {
       image: require("./assets/images/auto.webp"),
       projectName: "Autoplex Alberta",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "Autoplex Alberta is an Alberta Motor Vehicle Council (AMVIC) licensed used car dealership",
       footerLink: [
         {
           name: "Visit Website",
