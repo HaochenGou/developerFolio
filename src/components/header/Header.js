@@ -84,7 +84,7 @@ function Header() {
             <a> 
               <ToggleSwitch />
             </a>
-            <p style={{fontSize:"12px"}}>Day Night</p>
+            <p style={{fontSize:"12px"}}>Day | Night</p>
           </li>
         </ul>
       </header>
