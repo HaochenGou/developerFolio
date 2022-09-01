@@ -427,7 +427,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "780-449-5331",
-  email_address: "info@cwd.com",
+  email_address: "info@Canadianwebsite.ca",
   address:"426 Kaska Rd, Sherwood Park, AB T8A 4G8"
 };
 
